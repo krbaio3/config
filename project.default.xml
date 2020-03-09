@@ -1,0 +1,53 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectDictionaryState">
+        <dictionary name="krbaio" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="experimental" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
