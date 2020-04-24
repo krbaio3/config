@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".eslinstignore" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
